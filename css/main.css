@@ -435,7 +435,7 @@ h2 {
 /*	background-image: url(../7.gif) ;*/
 	padding: 250px 0 50px 0;
 	position: relative;
-		background: #e59300;
+		background: #d5c8b2;
 }
 
 @media screen and (max-width: 1023.98px) {
@@ -560,7 +560,7 @@ h2 {
 .about {
 	padding: 100px 0 50px 0;
 	position: relative;
-	    background: #e59300;
+	    background: #d5c8b2;
 
 }
 
@@ -674,7 +674,7 @@ h2 {
 .tokenomics {
 	padding: 50px 0;
 	position: relative;
-	background: #e59300;
+	background: #d5c8b2;
 }
 
 .tokenomics__left {
@@ -823,7 +823,7 @@ h2 {
 	padding: 50px 0;
 	position: relative;
 /*	background: #43b7d5;*/
-	background: #e59300;
+	background: #d5c8b2;
 }
 
 .buy__left {
@@ -927,7 +927,7 @@ flex-shrink: 0;
 
 .footer {
 	padding: 50px 0;
-	    background: #e59300;
+	    background: #d5c8b2;
 }
 
 .footer__container {
